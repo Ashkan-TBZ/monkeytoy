@@ -13,4 +13,4 @@ Erstelle einen Ordner, inden du die source.ahk Datei verschiebst. In dem Ordner 
 Nachdem das alles erledigt wurde, kannst du einen doppel Klick auf die source.ahk machen um den Keybinder zu starten.
 
 ## To-Do Liste
-- [] Kompletten Keybinder an das aktuelle Serverscript anpassen
+- [ ] Kompletten Keybinder an das aktuelle Serverscript anpassen
