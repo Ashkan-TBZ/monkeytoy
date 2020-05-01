@@ -14,3 +14,6 @@ Nachdem das alles erledigt wurde, kannst du einen doppel Klick auf die source.ah
 
 ## To-Do Liste
 - [ ] Kompletten Keybinder an das aktuelle Serverscript anpassen
+
+## Vorschaubilder
+![InGame Overlay](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/pictures/monkeytoy_ingameoverlay.png)
