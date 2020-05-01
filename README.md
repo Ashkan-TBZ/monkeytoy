@@ -11,3 +11,6 @@ Du kannst die monkeytoy.exe starten oder:
 
 Erstelle einen Ordner, inden du die source.ahk Datei verschiebst. In dem Ordner erstellst du einen weiteren Ordner namens src. In dem Ordner src erstellst du einen weiteren Ordner namens Includes und darein werden die restlichen Datein eingefügt.
 Nachdem das alles erledigt wurde, kannst du einen doppel Klick auf die source.ahk machen um den Keybinder zu starten.
+
+## To-Do Liste
+- [] Kompletten Keybinder an das aktuelle Serverscript anpassen
