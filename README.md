@@ -1,4 +1,5 @@
-![monkeytoy Logo](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/ressources/monkeytoy_icon_x128.png) ![SA:MP Logo](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/ressources/samp_logo.png)
+![monkeytoy Logo](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/ressources/monkeytoy_icon_x128.png) ![SA:MP Logo](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/ressources/samp_logo.png) ![RPG-City Logo](https://rpg-city.de/images/styleLogo-53140728cde5e7a9581aa80a3a25004e340a3958.png
+)
 
 # monkeytoy
 ### Zusatzprogramm für den SA:MP Server RPG-City
