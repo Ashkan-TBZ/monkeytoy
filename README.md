@@ -17,3 +17,7 @@ Nachdem das alles erledigt wurde, kannst du einen doppel Klick auf die source.ah
 
 ## Vorschaubilder
 ![InGame Overlay](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/pictures/monkeytoy_ingameoverlay.png)
+![Hauptmenü](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/pictures/mainmenu.PNG)
+![Einstellungen](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/pictures/einstellungen.PNG)
+![Informationen](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/pictures/informationen.PNG)
+![Eigene Hotkeys](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/pictures/eigenehotkeys.PNG)
