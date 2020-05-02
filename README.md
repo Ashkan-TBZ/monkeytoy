@@ -3,7 +3,7 @@
 
 # monkeytoy
 ### Zusatzprogramm für den SA:MP Server RPG-City
-# monkeytoy befindet sich im Entwicklungsstatus und wird kontinuierlich weiter entwickelt.
+#### monkeytoy befindet sich im Entwicklungsstatus und wird kontinuierlich weiter entwickelt.
 
 ## Download
 [Neuste Version von monkeytoy herunterladen](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/monkeytoy.exe)
