@@ -4,6 +4,9 @@
 # monkeytoy
 ### Zusatzprogramm für den SA:MP Server RPG-City
 
+## Download
+[Neuste Version von monkeytoy herunterladen](https://raw.githubusercontent.com/Ashkan-TBZ/monkeytoy/master/monkeytoy.exe)
+
 ## Verwendung von monkeytoy
 Du benötigst AutoHotkey um die Quelldateien verwenden zu können. AutoHotkey kannst du auf https://www.autohotkey.com/download/ahk-install.exe. Bei der Installation die Version ANSI-32 Bit auswählen.
 
